@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-<h2 align="left">Pamukkale University Management Information Systems
+<h5 align="left">Pamukkale University Management Information Systems
 I am a 4th grade student. To solve social problems
 I do social enterprises. For this purpose, with Flutter
 solve problems by developing mobile applications
 I am working.
 Extremely willing to find solutions to existing problems
-i am motivated</h2>
+i am motivated</h5>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-levent-188510228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer faruk levent" height="30" width="40" /></a>

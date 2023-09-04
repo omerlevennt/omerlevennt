@@ -1,13 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-<h4 align="left">Pamukkale University Management Information Systems
-I am a 4th grade student. To solve social problems
-I do social enterprises. For this purpose, with Flutter
-solve problems by developing mobile applications
-I am working.
-Extremely willing to find solutions to existing problems
-i am motivated</h4>
+<h4 align="left">I would introduce myself in seven words. Passionate coder, open minded engineer, best collegue. I always try to be best for future technologies. Because the technology is growing so fast and I want to be part of it. For this reason , I want to be part of in a strong team. I am sure , I can overcome all the diffuculties on this way. I am ready to develop myself and the future. Please tell me if you would like me to elaborate on anything.</h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-levent-188510228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer faruk levent" height="30" width="40" /></a>

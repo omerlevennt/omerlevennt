@@ -1,4 +1,4 @@
-
+https://media.tenor.com/QTj_ecNypEcAAAAC/esplosione-gine.gif
 
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 <h4 align="left">I would introduce myself in seven words. Passionate coder, open minded engineer, best collegue. I always try to be best for future technologies. Because the technology is growing so fast and I want to be part of it. For this reason , I want to be part of in a strong team. I am sure , I can overcome all the diffuculties on this way. I am ready to develop myself and the future. Please tell me if you would like me to elaborate on anything.</h4>
